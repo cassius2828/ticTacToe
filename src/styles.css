@@ -1,0 +1,17 @@
+
+body {
+  background-color: #2b2b2b;
+}
+
+
+.App, .display {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.display {
+top: 80%;
+font-size: 3rem;
+}
